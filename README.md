@@ -1,2 +1,4 @@
-# doc_store
-Storing all dummy data
+# About
+The langchain framework makes it easy to use LLMs as agents capable of making decisions. Furthermore, these agents can be equipped with a variety of tools which implement different functionalities. LLM agents can be given access of a combination of such tools. The decision to use a particular tool as part of solving a particular task is based on the language understanding ability of the LLMs.
+
+In this repo, we will explore the power of Langchain agents and their application in question answering over a text document store. Specifically, we will dive into creating a Jupyter Notebook that demonstrates the integration of Large Language model (LLM) with external text documents and a search engine, enabling seamless information retrieval. We'll also discuss the challenges encountered during the planning phase and how to overcome them. In particular we discuss how to make agents use the tools in a particular order, whenever they decide to use them.
